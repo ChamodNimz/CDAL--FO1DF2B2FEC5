@@ -274,6 +274,7 @@ header .navbar {
 	outline: none;
 }
 .navbar .navbar-brand h2 {
+	
 	color: #fff;
 	text-transform: uppercase;
 	font-size: 24px;
@@ -282,6 +283,7 @@ header .navbar {
     -moz-transition: all .3s ease 0s;
     -o-transition: all .3s ease 0s;
     transition: all .3s ease 0s;
+	
 }
 .navbar .navbar-brand h2 em {
 	font-style: normal;
@@ -388,15 +390,15 @@ header .navbar {
 }
 
 .Modern-Slider .item-1 .img-fill {
-	background-image: url(../images/slider/5040007.jpg);
+	background-image: url(../images/slider/7.jpg);
 }
 
 .Modern-Slider .item-2 .img-fill {
-	background-image: url(../images/slider/unrecognizable-business-partners-working-with-statistic-charts-businessman-holding-tablet-professional-content-businesswoman-making-notes-statistics-communication-partnership-concept.jpg);
+	background-image: url(../images/slider/4.jpg);
 }
 
 .Modern-Slider .item-3 .img-fill {
-	background-image: url(../images/slider/close-up-image-programer-working-his-desk-office.jpg);
+	background-image: url(../images/slider/8.jpg);
 }
 
 .Modern-Slider .NextArrow{
