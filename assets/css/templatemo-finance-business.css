@@ -229,6 +229,13 @@ a.border-button:hover {
 	opacity: 0.75;
 }
 
+.sticky {
+	position: fixed;
+	top: 0;
+	width: 100%;
+  }
+  
+
 
 
 /* Header Style */
@@ -398,7 +405,7 @@ header .navbar {
 }
 
 .Modern-Slider .item-3 .img-fill {
-	background-image: url(../images/slider/8.jpg);
+	background-image: url(../images/slider/10.jpg);
 }
 
 .Modern-Slider .NextArrow{
